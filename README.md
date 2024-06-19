@@ -1,0 +1,1 @@
+This repository contains a Jupyter Notebook demonstrating how to access a PostgreSQL database using Python. The notebook covers connecting to the database, executing a query, and loading the query result into a Pandas DataFrame for further analysis.
